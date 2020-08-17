@@ -1,0 +1,5 @@
+2020/07/12-10:12:06.600 11c3 Reusing MANIFEST /home/rick/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_stadia.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/07/12-10:16:00.224 16ff Level-0 table #5: started
+2020/07/12-10:16:00.232 16ff Level-0 table #5: 1916 bytes OK
+2020/07/12-10:16:00.235 16ff Delete type=0 #3
+2020/07/12-10:16:00.235 16ff Manual compaction at level-0 from (begin) .. (end); will stop at (end)

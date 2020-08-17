@@ -1,0 +1,15 @@
+2020/08/16-10:28:32.893 c5d Reusing MANIFEST /home/rick/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/08/16-10:28:32.893 c5d Recovering log #25
+2020/08/16-10:28:32.896 c5d Reusing old log /home/rick/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000025.log 
+2020/08/16-10:48:59.152 6ee Level-0 table #30: started
+2020/08/16-10:48:59.156 6ee Level-0 table #30: 7739 bytes OK
+2020/08/16-10:48:59.161 6ee Delete type=0 #25
+2020/08/16-10:48:59.161 6ee Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/08/16-10:48:59.161 6ee Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x00\x00\x05' @ 974 : 1
+2020/08/16-10:48:59.161 6ee Compacting 1@1 + 1@2 files
+2020/08/16-10:48:59.166 6ee Generated table #31@1: 49 keys, 1872 bytes
+2020/08/16-10:48:59.166 6ee Compacted 1@1 + 1@2 files => 1872 bytes
+2020/08/16-10:48:59.170 6ee compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/08/16-10:48:59.170 6ee Delete type=2 #27
+2020/08/16-10:48:59.170 6ee Delete type=2 #30
+2020/08/16-10:48:59.171 6ee Manual compaction at level-1 from '\x00\x02\x00\x00\x05' @ 974 : 1 .. (end); will stop at (end)

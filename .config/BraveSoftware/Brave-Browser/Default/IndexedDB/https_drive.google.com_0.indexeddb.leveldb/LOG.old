@@ -1,0 +1,16 @@
+2020/07/10-10:00:40.404 a443 Reusing MANIFEST /home/rick/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/07/10-10:00:50.838 ad9c Level-0 table #5: started
+2020/07/10-10:00:50.852 ad9c Level-0 table #5: 5179513 bytes OK
+2020/07/10-10:00:50.857 ad9c Delete type=0 #3
+2020/07/10-11:13:38.177 ad9c Level-0 table #7: started
+2020/07/10-11:13:38.180 ad9c Level-0 table #7: 780 bytes OK
+2020/07/10-11:13:38.182 ad9c Delete type=0 #4
+2020/07/10-11:13:38.182 ad9c Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/07/10-11:13:38.183 ad9c Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x03\x02\x01'\x008\x00d\x001\x00e\x00e\x000\x00e\x00e\x006\x009\x003\x008\x007\x003\x00d\x008\x00c\x00f\x009\x008\x002\x00d\x001\x007\x008\x009\x007\x003\x00a\x002\x00b\x00b\x00_\x003\x00_\x002\x00:\x000\x000' @ 571 : 1
+2020/07/10-11:13:38.183 ad9c Compacting 1@1 + 1@2 files
+2020/07/10-11:13:38.212 ad9c Generated table #8@1: 68 keys, 1533685 bytes
+2020/07/10-11:13:38.213 ad9c Compacted 1@1 + 1@2 files => 1533685 bytes
+2020/07/10-11:13:38.216 ad9c compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/07/10-11:13:38.217 ad9c Delete type=2 #7
+2020/07/10-11:13:38.217 ad9c Delete type=2 #5
+2020/07/10-11:13:38.219 ad9c Manual compaction at level-1 from '\x00\x01\x03\x02\x01'\x008\x00d\x001\x00e\x00e\x000\x00e\x00e\x006\x009\x003\x008\x007\x003\x00d\x008\x00c\x00f\x009\x008\x002\x00d\x001\x007\x008\x009\x007\x003\x00a\x002\x00b\x00b\x00_\x003\x00_\x002\x00:\x000\x000' @ 571 : 1 .. (end); will stop at (end)

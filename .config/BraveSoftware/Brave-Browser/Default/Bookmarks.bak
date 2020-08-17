@@ -1,0 +1,75 @@
+{
+   "checksum": "942fc8a3fb8f895c62f1ba2a99d18263",
+   "roots": {
+      "bookmark_bar": {
+         "children": [  ],
+         "date_added": "13238877665007456",
+         "date_modified": "13239041832206592",
+         "guid": "00000000-0000-4000-a000-000000000002",
+         "id": "1",
+         "name": "Bookmarks",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "date_added": "13239041832206592",
+            "guid": "e24a39d5-a73a-4ffe-9260-0b41f3d02395",
+            "id": "5",
+            "name": "shell-storm | Shellcodes Database",
+            "type": "url",
+            "url": "http://shell-storm.org/shellcode/"
+         }, {
+            "date_added": "13239052677631674",
+            "guid": "52e38471-3a8d-49af-aaba-9b9915bf7ab5",
+            "id": "6",
+            "name": "Linux/x86 - execve(/bin/sh) - 28 bytes",
+            "type": "url",
+            "url": "http://shell-storm.org/shellcode/files/shellcode-811.php"
+         }, {
+            "date_added": "13239052684579618",
+            "guid": "ca462be2-93e5-4a88-99c8-174409eaf20f",
+            "id": "7",
+            "name": "OverTheWire – Narnia 3 | Hackmethod",
+            "type": "url",
+            "url": "https://hackmethod.com/overthewire-narnia-3/?v=7516fd43adaa"
+         }, {
+            "date_added": "13239466500595906",
+            "guid": "12f8cb2c-f6af-4ef4-97dd-aedaf4dcd760",
+            "id": "9",
+            "name": "SomaFM: DEF CON Radio: Music for Hacking. The DEF CON Year-Round Channel. Commercial-free, Listener-supported Radio",
+            "type": "url",
+            "url": "https://somafm.com/defcon/"
+         }, {
+            "date_added": "13239732341360103",
+            "guid": "5919e293-1c1e-405a-8157-bd5033767a3c",
+            "id": "11",
+            "name": "Pwnagotchi - Deep Reinforcement Learning instrumenting bettercap for WiFi pwning.",
+            "type": "url",
+            "url": "https://pwnagotchi.ai/"
+         }, {
+            "date_added": "13239895407607828",
+            "guid": "49c49c0e-d9d8-4a1c-b44f-9cfbce5e5045",
+            "id": "13",
+            "name": "NPK",
+            "type": "url",
+            "url": "https://djpjhzghikt40.cloudfront.net/#/dashboard"
+         } ],
+         "date_added": "13238877665007462",
+         "date_modified": "13239895407607828",
+         "guid": "00000000-0000-4000-a000-000000000003",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13238877665007463",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000004",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
