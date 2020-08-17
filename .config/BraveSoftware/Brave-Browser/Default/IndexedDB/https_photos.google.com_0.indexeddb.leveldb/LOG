@@ -1,8 +1,0 @@
-2020/07/17-00:49:44.827 12f3 Reusing MANIFEST /home/rick/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_photos.google.com_0.indexeddb.leveldb/MANIFEST-000001
-2020/07/17-00:49:44.827 12f3 Recovering log #31
-2020/07/17-00:49:44.827 12f3 Reusing old log /home/rick/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_photos.google.com_0.indexeddb.leveldb/000031.log 
-2020/07/17-00:50:17.051 9cf Level-0 table #35: started
-2020/07/17-00:50:17.051 9cf Level-0 table #35: 0 bytes OK
-2020/07/17-00:50:17.061 9cf Delete type=0 #31
-2020/07/17-00:50:17.062 9cf Manual compaction at level-0 from (begin) .. (end); will stop at (end)
-2020/07/17-00:50:17.062 9cf Manual compaction at level-1 from (begin) .. (end); will stop at (end)
