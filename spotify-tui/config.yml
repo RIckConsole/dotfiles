@@ -1,0 +1,15 @@
+theme:
+  active: "219, 75, 75" # current playing song in list
+  banner: "219, 75, 75" # the "spotify-tui" banner on launch
+  error_border: Red # error dialog border
+  error_text: Red # error message text (e.g. "Spotify API reported error 404")
+  hint: Yellow # hint text in errors
+  hovered: Cyan # hovered pane border
+  inactive: "219, 75, 75" # borders of inactive panes
+  playbar_background: "219, 75, 75" # background of progress bar
+  playbar_progress: Black # filled-in part of the progress bar
+  playbar_text: "74, 167, 214" # artist name in player pane
+  selected: LightCyan # a) selected pane border, b) hovered item in list, & c) track title in player
+  #text: "255, 255, 255" # text in panes
+  text: Cyan  
+  header: White  # header text in panes (e.g. 'Title', 'Artist', etc.)
